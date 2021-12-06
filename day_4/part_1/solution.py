@@ -1,5 +1,3 @@
-import os
-
 data_sections = []
 draw_order = []
 draw_index = 0

@@ -1,5 +1,3 @@
-import os
-
 depth = 0
 horiz_pos = 0
 with open("input.txt", "r", encoding='utf-8') as input:

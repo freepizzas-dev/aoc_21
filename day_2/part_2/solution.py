@@ -1,5 +1,3 @@
-import os
-
 aim = 0
 depth = 0
 horiz_pos = 0

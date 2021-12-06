@@ -1,5 +1,3 @@
-import os
-
 #count the number of '1's in each bit; if it's greater than half the length,
 #it's the 'most common bit' for that position
 line_count = 0
