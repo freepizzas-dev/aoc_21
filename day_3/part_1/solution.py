@@ -36,9 +36,10 @@ for bit in bit_counts:
 
 epsilon_rate = int(epsilon_string, 2)
 gamma_rate = int(gamma_string, 2)
+power = epsilon_rate * gamma_rate
 
 print('epsilon(2): ' + str(epsilon_string))
 print('gamma(2): ' + str(gamma_string))
 print('epsilon(10): ' + str(epsilon_rate))
 print('gamma(10): ' + str(gamma_rate))
-print('power: ' + str(epsilon_rate * gamma_rate))
+print('power: ' + str(power))
